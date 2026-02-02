@@ -19,3 +19,5 @@ Python
 Tkinter (GUI library)
 
 This project is ideal for beginners who want to learn how to build desktop applications using Python and understand event-driven programming.
+
+![Image](https://github.com/user-attachments/assets/2c0fb19a-7974-41b4-be01-8deabd5db339)
